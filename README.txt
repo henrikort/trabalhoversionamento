@@ -5,7 +5,6 @@ bancária básica com funcionalidades como abertura, fechamento, depósito, saqu
 pagamento de mensalidade e exibição do estado atual.
 
 Funcionalidades Principais:
-
 Abrir Conta:
 O método abrirConta(String tipo) permite a abertura de uma nova conta, 
 definindo o tipo (CC para Conta Corrente, CP para Conta Poupança) e inicializando 
